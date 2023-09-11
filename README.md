@@ -1,5 +1,5 @@
 ## About The Project
-GLUU is meant to convert GLSL to LUAU. GLLU makes importing shaders made in GLSL to LUAU super simple.
+Pronounced like "Glue". GLUU is meant to convert GLSL to LUAU. GLLU makes importing shaders made in GLSL to LUAU super simple.
 
 Features: 
   * All functions used is imported automatically at the top.
