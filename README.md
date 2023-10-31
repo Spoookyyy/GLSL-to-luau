@@ -21,5 +21,5 @@ GLUU is currently under development. While the core functionalities are in place
 
 ## 📬 Contact
 
-For inquiries, feedback, or collaboration, feel free to reach out to [Your Name/Contact Info].
+For inquiries, feedback, or collaboration, feel free to reach out to spooky@spooky.wtf
 
