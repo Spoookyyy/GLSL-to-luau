@@ -1,6 +1,6 @@
 # GLUU - GLSL to LUAU Converter 🚀
 
-Pronounced just like "glue", GLUU is a tool designed to convert GLSL shaders to LUAU. GLUU makes the integration process, making it easy to bring shaders to roblox
+Pronounced just like "glue", GLUU is a tool designed to convert GLSL shaders to LUAU. GLUU makes life easy, making it easy to bring GODOT shaders to roblox
 ## 🌟 Features
 
 - **Automatic Importing**: All functions are imported at the beginning of the converted code
